@@ -2,3 +2,15 @@ canvas#snake {
   border: 2px solid #333;
   box-shadow: 4px 4px 4px #777;
 }
+
+#scoreDiv {
+
+  vertical-align: left;
+  
+  margin-left: 1em;
+}
+
+p {
+  margin-left: 1em;
+  font-size: large;
+}
